@@ -1,0 +1,86 @@
+BODY {
+    FONT-FAMILY: ARIAL, HELVETICA, SANS-SERIF;
+    FONT-SIZE: 16PX;
+    LINE-HEIGHT: 1.7;
+    BACKGROUND-COLOR: #F4F4F4;
+    COLOR:
+        #333333;
+    MARGIN: 0;
+}
+
+HEADER {
+    background: linear-gradient(blue, WHITE);
+    COLOR: #250c68;
+    TEXT-ALIGN: CENTER;
+    PADDING: 30PX;
+}
+
+HEADER H1 {
+    FONT-SIZE: 35PX;
+    color: #0F2573;
+    FONT-WEIGHT: BOLD;
+    MARGIN-BOTTOM: 5PX;
+}
+
+.PROFESI {
+    FONT-SIZE: 20PX;
+    FONT-WEIGHT: NORMAL;
+    text-align: center;
+    COLOR: #0F2573;
+}
+
+.FOTO-PROFIL {
+    WIDTH: 150PX;
+    HEIGHT: 150PX;
+    BORDER-RADIUS: 0%;
+    BORDER: 4PX SOLID rgb(190, 62, 62);
+}
+
+MAIN {
+    WIDTH: 80%;
+    MARGIN: 30PX AUTO;
+    BACKGROUND-COLOR: WHITE;
+    PADDING: 30PX;
+}
+
+SECTION {
+    MARGIN-BOTTOM: 30PX;
+}
+
+H2 {
+    COLOR: #4e0112;
+    FONT-SIZE: 23PX;
+    BORDER-BOTTOM: 2PX SOLID #3182BD;
+    PADDING-BOTTOM: 5PX;
+}
+
+P {
+    FONT-SIZE: 20PX;
+    color: #0f5757;
+    TEXT-ALIGN: JUSTIFY;
+}
+
+UL {
+    LINE-HEIGHT: 1.8;
+}
+
+A {
+    COLOR: #0F2573;
+    TEXT-DECORATION: NONE;
+}
+
+A:HOVER {
+    TEXT-DECORATION: UNDERLINE;
+}
+
+FOOTER {
+    BACKGROUND: linear-gradient(blue, WHITE);
+    COLOR: WHITE;
+    TEXT-ALIGN: CENTER;
+    PADDING: 15PX;
+}
+
+FOOTER P {
+    TEXT-ALIGN: CENTER;
+    FONT-SIZE: 14PX;
+}
